@@ -1,77 +1,261 @@
-# Teguh Aldianto
+<div align="center">
 
-Full Stack Web Developer (Laravel) | Android Developer (Kotlin)
+# 👋 Hi, I'm Teguh Aldianto
 
-I am a Full Stack Web Developer with a strong focus on building structured, maintainable, and scalable applications.
-My primary expertise is in Laravel-based web systems and Android development using Kotlin with MVVM architecture.
+### 💻 Full Stack Software Engineer • Backend Engineer • System Designer
 
-I have experience working on academic, internship, and capstone projects that translate real-world problems into practical software solutions.
-I am also a published author at the ICASVI 2025 international conference, focusing on vocational and software innovation.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Backend+Engineer;Full+Stack+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Technology" />
 
----
-
-## Core Tech Stack
-
-**Backend & Web**
-- PHP
-- Laravel
-- Filament
-- MySQL
-- RESTful API
-
-**Mobile Development**
-- Kotlin
-- Android (MVVM Architecture)
-- Retrofit
-
-**Tools**
-- Git & GitHub
-- Postman
-- Visual Studio Code
+</div>
 
 ---
 
-## Selected Projects
+## 🚀 About Me
 
-### BATITUNE – Batik Tulis E-Commerce Platform  
-Final Project, Universitas Negeri Surabaya  
+💡 Passionate about building **scalable**, **maintainable**, and **production-ready** applications.
 
-Laravel-based e-commerce platform designed to support the digitalization of Batik Tulis SMEs, covering product management, transactions, and admin operations.
+I enjoy transforming business ideas into software solutions by focusing on:
 
-**Tech Stack:** Laravel, Filament, MySQL, Midtrans  
-**Focus:** Clean backend structure, admin efficiency, and maintainable codebase
+- 🏗 Software Architecture
+- ⚙ Backend Development
+- 🌐 Full Stack Development
+- 🗄 Database Design
+- 🔐 Security Best Practices
+- 🚀 Performance Optimization
+- 🤖 AI Assisted Development
 
----
-
-### NVBite – Carbon Emission Detection Application  
-Capstone Project, Bangkit Academy 2024  
-
-Android application for estimating carbon emissions generated from food consumption, developed in a cross-functional team environment.
-
-**Tech Stack:** Kotlin, MVVM, Retrofit, Clean Architecture  
-**Focus:** Modular architecture, API integration, and team-based Git workflow
+Currently expanding my expertise in modern technologies such as **Next.js**, **TypeScript**, **Prisma**, **Docker**, and **Cloud Deployment**.
 
 ---
 
-### Corporate Cash Management System  
-Internship Project, PT EDI Indonesia  
+# 🛠 Tech Stack
 
-Internal web application for managing corporate cash flow and financial reporting, replacing manual processes with a centralized digital system.
+## 🌐 Frontend
 
-**Tech Stack:** PHP, Laravel, Filament  
-**Focus:** Business process digitalization and internal system reliability
-
----
-
-## Achievements
-
-- Published Author, ICASVI 2025 (International Conference)
-- Graduate of Bangkit Academy 2024 – Mobile Development Track
-- Certifications: Kotlin Programming, Web Programming, Basic Artificial Intelligence
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
 ---
 
-## Contact
+## ⚙ Backend
 
-- LinkedIn: https://www.linkedin.com/in/teguh-aldianto-705653298
-- Email: aldinamanya08@gmail.com
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
+
+---
+
+## 📱 Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+</p>
+
+---
+
+## 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,linux" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛍 BATITUNE
+
+### Batik Tulis E-Commerce Platform
+
+🎓 Undergraduate Final Project
+
+✔ Product Management
+
+✔ Shopping Cart
+
+✔ Checkout
+
+✔ Midtrans Payment Gateway
+
+✔ Admin Dashboard
+
+✔ Customer Management
+
+✔ Sales Report
+
+**Tech Stack**
+
+`Laravel`
+`Filament`
+`MySQL`
+`Midtrans`
+
+---
+
+## 💰 Corporate Cash Management System
+
+🏢 Internship Project
+
+Internal financial management system for PT EDI Indonesia.
+
+### Features
+
+- Cash Flow Management
+- Financial Reporting
+- Dashboard
+- User Management
+- Digital Business Process
+
+**Tech Stack**
+
+`Laravel`
+`Filament`
+`MySQL`
+
+---
+
+## 🌱 NVBite
+
+Bangkit Academy 2024
+
+Android application for estimating food carbon emissions.
+
+### Features
+
+- Carbon Estimation
+- REST API Integration
+- Clean MVVM Architecture
+
+**Tech Stack**
+
+`Kotlin`
+
+`MVVM`
+
+`Retrofit`
+
+---
+
+# 📚 Publications
+
+📖 Published Author
+
+**ICASVI 2025 International Conference**
+
+Research Topic:
+
+> Software Innovation & Digital Transformation
+
+---
+
+# 🏆 Certifications
+
+🎓 Bangkit Academy 2024
+
+🎓 Kotlin Programming
+
+🎓 Web Programming
+
+🎓 Basic Artificial Intelligence
+
+---
+
+# 🌱 Currently Learning
+
+- ⚛ Next.js 16
+- 🟦 TypeScript
+- 🐳 Docker
+- ⚡ Prisma ORM
+- ☁ Cloud Deployment
+- 🤖 AI Coding Workflow
+- 🏗 System Design
+- 🔥 Clean Architecture
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TeguhAldianto&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeguhAldianto&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=TeguhAldianto&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TeguhAldianto&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TeguhAldianto&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TeguhAldianto/TeguhAldianto/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/teguh-aldianto-705653298">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:aldinamanya08@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💬 Motto
+
+> *"First, solve the problem. Then, write the code."*
+
+<img src="https://komarev.com/ghpvc/?username=TeguhAldianto&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</div>
