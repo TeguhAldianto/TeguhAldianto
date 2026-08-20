@@ -182,18 +182,6 @@ Research Topic:
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TeguhAldianto&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeguhAldianto&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -204,31 +192,11 @@ Research Topic:
 
 ---
 
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TeguhAldianto&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeguhAldianto&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TeguhAldianto/TeguhAldianto/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
